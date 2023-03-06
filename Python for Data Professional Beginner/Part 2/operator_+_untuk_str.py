@@ -1,6 +1,6 @@
 # Operator + pada dua string akan secara otomatis menggabungkan 
-# kedua string tersebut. Operator + juga dapat digunakan 
-# untuk menambahkan beberapa string secara bersamaan.
+#  kedua string tersebut. Operator + juga dapat digunakan 
+#   untuk menambahkan beberapa string secara bersamaan.
 nama_depan = 'John'
 nama_belakang = 'Doee'
 nama_lengkap = nama_depan + ' ' + nama_belakang
