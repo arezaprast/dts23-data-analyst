@@ -7,3 +7,8 @@ elif jam >= 17 and jam < 19: # selama jam di antara 17 s.d. 19
     print("Selamat sore!")
 else: # selain kondisi di atas
     print("Selamat malam!")
+
+'''Sebagai catatan tambahan, aku juga belajar 
+bahwa aksi dalam sebuah desisi statemen dapat dituliskan
+desisi statemen tambahan (lainnya) yang dikenal dengan istilah nested if.
+'''
