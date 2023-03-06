@@ -1,4 +1,5 @@
-bulan_pembelian = ('januari', 'februari', 'maret', 'april', 'mei', 'juni', 'juli', 'agustus', 'september', 'oktober', 'november', 'desember')
+bulan_pembelian = ('januari', 'februari', 'maret', 'april', 'mei', 
+'juni', 'juli', 'agustus', 'september', 'oktober', 'november', 'desember')
 pertengahan_tahun = bulan_pembelian[4:8]
 print(pertengahan_tahun)
 awal_tahun = bulan_pembelian[:5]
