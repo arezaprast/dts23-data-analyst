@@ -1,4 +1,4 @@
-# String Manipulation adalah teknik yang digunakan dalam memanipulasi data \
+# String Manipulation adalah teknik yang digunakan dalam memanipulasi data
 #  yang disimpan dalam tipe data str. Pada bahasa Python, untuk mempermudah 
 #   proses pengolahan data, tipe data string dapat diperlakukan layaknya 
 #    seperti tipe data list.
