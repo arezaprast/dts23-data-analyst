@@ -8,7 +8,8 @@ print(score_budi) # akan menampilkan output 4
 print(score_sud) # akan menampilkan output 3
 
 # Fitur .index()
-# Mengembalikan indeks dari elemen pertama yang ditemukan dari awal sebuah tuple
+# Mengembalikan indeks dari elemen pertama yang ditemukan 
+#  dari awal sebuah tuple
 print(">>> Fitur .index()")
 tuple_score = ('Budi','Sud','Budi','Budi','Budi','Sud','Sud')
 score_pertama_sud = tuple_score.index('Sud') + 1
