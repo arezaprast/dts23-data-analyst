@@ -14,6 +14,7 @@ print(response.text)
 	file.close()
 	print(all_lines)
 '''
+
 # Membaca file hello.txt dengan menerapkan looping
 ''' print(">>> Membaca file hello.txt dengan menerapkan looping")
 	file = open("hello.txt", "r")
