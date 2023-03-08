@@ -36,8 +36,8 @@ print(senja.total_pendapatan())
 
 # Inheritance adalah salah satu mekanisme di konsep Object-Oriented yang mengizinkan 
 #  untuk mendefinisikan sebuah class baru berdasarkan class yang sebelumnya telah 
-#   dideklarasikan. Melalui konsep inheritance, sebuah class baru dapat memiliki 
-#    atribut dan fungsi pada class yang sebelumnya telah didefinisikan. 
+#  dideklarasikan. Melalui konsep inheritance, sebuah class baru dapat memiliki 
+#  atribut dan fungsi pada class yang sebelumnya telah didefinisikan. 
 # Pada konsep inheritance, atribut/fungsi yang akan diwariskan hanyalah 
 #  atribut/fungsi dengan access modifier public, atribut/fungsi dengan 
-#   access modifier private tidak akan diturunkan.
+#  access modifier private tidak akan diturunkan.
