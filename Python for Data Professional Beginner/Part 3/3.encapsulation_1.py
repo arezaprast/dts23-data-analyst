@@ -20,6 +20,9 @@ print(aksara.__class__.nama_perusahaan)
 # Akan menimbulkan error ketika di run
 print(aksara.__nama)
 
+# Enkapsulasi (Encapsulation) adalah sebuah teknik dalam OOP yang mengizinkan
+#  untuk menyembunyikan detil dari sebuah atribut dalam sebuah class.
+
 # Terdapat 2 macam access modifier dalam Python, yakni.
 #  Public access: dapat aku definisikan dengan secara langsung menuliskan 
 #    nama dari atribut/ fungsi. Dalam sebuah objek, atribut/fungsi 
