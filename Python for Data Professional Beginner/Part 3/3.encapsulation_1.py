@@ -19,3 +19,13 @@ aksara = Karyawan('Aksara', 25, 8500000)
 print(aksara.__class__.nama_perusahaan)
 # Akan menimbulkan error ketika di run
 print(aksara.__nama)
+
+# Terdapat 2 macam access modifier dalam Python, yakni.
+#  Public access: dapat aku definisikan dengan secara langsung menuliskan 
+#    nama dari atribut/ fungsi. Dalam sebuah objek, atribut/fungsi 
+#    yang bersifat public access dapat diakses di luar scope sebuah class
+#  Private access: dapat aku definisikan dengan menambahkan double underscore (__) 
+#    sebelum menuliskan nama dari atribut/fungsi. Dalam sebuah objek, 
+#    atribut/fungsi yang bersifat private access hanya dapat diakses 
+#    di dalam scope sebuah class.
+
