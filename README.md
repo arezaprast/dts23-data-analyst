@@ -1,6 +1,11 @@
 # Dgital Talent Scholarship 2023 by DQLab
 Sebuah kumpulan code Data Analyst Career Track dari DQLab
 
+## Table of Contents
+
+1. [Memahami Bahasa Pemrograman Fundamental](#memahami-bahasa-pemrograman-fundamental)
+    - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
+
 ## Memahami Fundamental Bahasa Pemrograman Python
 
 <h3>Python for Data Professional Beginner - Part 1</h3>
