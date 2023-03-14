@@ -50,4 +50,4 @@ Modul 2: Python Variables & Data Types
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%201/mini_quiz_part_1.py)  	|  Ekspedisi Pamanku 	|
 
-</br></br> **[⬆ back to top](#-table-of-contents)** </br></br>
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
