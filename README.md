@@ -1,10 +1,13 @@
-# Dgital Talent Scholarship 2023 by DQLab
-Sebuah kumpulan code Data Analyst Career Track dari DQLab
+# Dgital Talent Scholarship 2023 | DQLab - Data Analyst Career Track
+
+## Description
+Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan studi kasus industri dan disusun oleh para praktisi data profesional. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 
 ## Table of Contents
 
 1. [Memahami Bahasa Pemrograman Fundamental](#memahami-fundamental-bahasa-pemrograman-python)
     - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
+    - - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -49,5 +52,39 @@ Modul 2: Python Variables & Data Types
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%201/mini_quiz_part_1.py)  	|  Ekspedisi Pamanku 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+<h3>Python for Data Professional Beginner - Part 2</h3>
+
+Modul 1 : Collection Manipulation dengan Python
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.list_dan_tuple_1.py)  	|  Mengakses List dan Tuple - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.list_dan_tuple_2.py)  	|  Mengakses List dan Tuple - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.gabung_list_atau_tuple.py)  	|  Penggabungan Dua atau Lebih List atau Tuple	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.list_manipulaton_1.py)  	|  List Manipulation - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.list_manipulaton_2.py)  	|  List Manipulation - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.tuple_manipulaton.py)  	|  Tuple Manipulation 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.set_manipulaton_1.py)  	|  Set Manipulation - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.set_manipulaton_2.py)  	|  Set Manipulation - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.dictionary_manipulaton.py)  	|  Dictionary Manipulation 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.useful_tips_trik.py)  	|  Useful Tips and Tricks 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.tugas_praktek.py)  	|  Tugas Praktek 	|
+
+<br>Modul 2 : String Manipulation dengan Python
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.string_manipulation.py)  	|  Apa itu String Manipulation? 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.operator_+_for_string.py)  	|  Operator "+" untuk Tipe Data String 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.hilang_spasi.py)  	|  Menghilangkan Spasi di Awal dan/atau di Akhir 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.ubah_string.py)  	|  Merubah Caps pada String 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.pecah_gabung_ganti_string.py)  	|  Pemecahan, Penggabungan, dan Penggantian String 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.posisi_jumlah_string.py)  	|  Menentukan Posisi dan Jumlah Sub-String pada String 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.startswith_endswith_string_.py)  	|  Menentukan String Apakah Diawali/Diakhiri oleh Sub-string 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
