@@ -1,4 +1,4 @@
-# Dgital Talent Scholarship 2023 | DQLab - Data Analyst Career Track
+# Digital Talent Scholarship 2023 | DQLab - Data Analyst Career Track
 
 ## Description
 Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan studi kasus industri dan disusun oleh para praktisi data profesional. Kelas Data Analyst Career Track (Python) dirancang oleh 7 ahli data, dari beragam Industri seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
