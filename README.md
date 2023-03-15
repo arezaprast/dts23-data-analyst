@@ -57,7 +57,7 @@ Modul 2: Python Variables & Data Types
 
 <h3>Python for Data Professional Beginner - Part 2</h3>
 
-Modul 1 : Collection Manipulation dengan Python
+Modul 1: Collection Manipulation dengan Python
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
@@ -73,7 +73,7 @@ Modul 1 : Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.useful_tips_trik.py)  	|  Useful Tips and Tricks 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.tugas_praktek.py)  	|  Tugas Praktek 	|
 
-<br>Modul 2 : String Manipulation dengan Python
+<br>Modul 2: String Manipulation dengan Python
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
