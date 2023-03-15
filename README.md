@@ -7,7 +7,7 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
 
 1. [Memahami Bahasa Pemrograman Fundamental](#memahami-fundamental-bahasa-pemrograman-python)
     - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
-    - - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
+    - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
