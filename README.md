@@ -117,3 +117,11 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/mini_quiz_part_2.py)  	|  Harga Rumah di Tangerang 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+<h3>Python for Data Professional Beginner - Part 3</h3>
+
+
+
+
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
