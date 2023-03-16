@@ -9,8 +9,8 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
     - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
     - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
     - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
-1. [Memahami Fundamental Bahasa Pemrograman Python](#memahami-fundamental-bahasa-pemrograman-python)
-    - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
+1. [Memahami Bahasa SQL dan Sistem Database Relasional](#memahami-bahasa-sql-dan-sistem-database-relasional)
+    - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -153,5 +153,22 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/mini_quiz_part_3.py)  	|  Studi Kasus dari Senja 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+## Memahami Bahasa SQL dan Sistem Database Relasional
+
+<h3>Fundamental SQL Using SELECT Statement</h3>
+
+
+
+
+
+
+
+
+
+
+
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
