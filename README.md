@@ -87,4 +87,29 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
 
+<br>Modul 3: Function
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.def_fungsi_1.py)  	|  Fungsi Pertama 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.def_fungsi_2.py)  	|  Fungsi Kedua 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.def_fungsi_3.py)  	|  Fungsi ketiga 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/3.tugas_praktek_3.py)  	|  Tugas Praktek 3 	|
+
+<br>Modul 4: Manipulasi Berkas Teks dan Library Matematika pada Python
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.baca_teks_1.py)  	|  Membaca Berkas Teks - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.baca_teks_2.py)  	|  Membaca Berkas Teks - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.tulis_teks_1.py)  	|  Menulis Berkas Teks - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.tulis_teks_2.py)  	|  Menulis Berkas Teks - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.function_in_library_math_1.py)  	|  Fungsi dalam Library Matematika  - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.function_in_library_math_2.py)  	|  Fungsi dalam Library Matematika  - Part 2 	|
+
+<br>Modul 5: Mini Quiz
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/mini_quiz_part_2.py)  	|  Harga Rumah di Tangerang 	|
+
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
