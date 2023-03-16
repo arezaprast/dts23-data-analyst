@@ -160,15 +160,40 @@ Modul 1: Collection Manipulation dengan Python
 
 <h3>Fundamental SQL Using SELECT Statement</h3>
 
+<br>Modul 3: Penggunaan Perintah SELECT....FROM....
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/3.fetch_all_columns.sql)  	|  Mengambil Seluruh Kolom dalam suatu Tabel 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/3.fetch_one_columns.sql)  	|  Mengambil Satu Kolom dari Tabel 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/3.fetch_more_than_one_columns.sql)  	|  Mengambil lebih dari Satu Kolom dari Tabel 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/3.limit_row.sql)  	|  Membatasi Pengambilan Jumlah Row Data 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/3.select_distinct.sql)  	|  Penggunaan SELECT DISTINCT Statement 	|
 
+<br>Modul 4: Prefix & Alias
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.prefix_column.sql)  	|  Menggunakan Prefix pada Nama Kolom 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.alias_column.sql)  	|  Menggunakan Alias pada Kolom 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.remove_as_keyword.sql)  	|  Menghilangkan Keyword 'AS' 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.combine_prefix_and_alias.sql)  	|  Menggabungkan Prefix dan Alias 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.alias_for_table.sql)  	|  Menggunakan Alias pada Tabel 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/4.prefix_with_table_alias.sql)  	|  Prefix dengan Alias Tabel 	|
 
+<br>Modul 5: Menggunakan Filter
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/5.where.sql)  	|  Menggunakan WHERE 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/5.operand_OR.sql)  	|  Menggunakan Operand OR 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/5.number_filter.sql)  	|  Filter untuk Angka 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/5.operand_AND.sql)  	|  Menggunakan Operand AND 	|
 
+<br>Modul 6: Mini Project
 
-
-
-
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/mini_project.sql)  	|  Proyek dari Cabang A 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
