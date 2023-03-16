@@ -120,8 +120,36 @@ Modul 1: Collection Manipulation dengan Python
 
 <h3>Python for Data Professional Beginner - Part 3</h3>
 
+<br>Modul 2: Classes & Objects
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/2.class_objek_in_python_1.py)  	|  Class dan Objek dalam Python - Part 3 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/2.class_objek_in_python_2.py)  	|  Class dan Objek dalam Python - Part 4 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
 
+<br>Modul 3: Encapsulation & Inheritance 
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/3.encapsulation_1.py)  	|  Encapsulation pada Python - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/3.inheritance_1.py)  	|  Inheritance pada Python - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/3.inheritance_2.py)  	|  Inheritance pada Python - Part 2 	|
+
+<br>Modul 4: Polymorphism & Overloading 
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/4.polymorphism_1.py)  	|  Polymorphism pada Python - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/4.polymorphism_2.py)  	|  Polymorphism pada Python - Part 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/4.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/4.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
+
+<br>Modul 5: Mini Quiz
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/mini_quiz_part_3.py)  	|  Studi Kasus dari Senja 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
