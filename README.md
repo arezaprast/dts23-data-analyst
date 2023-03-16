@@ -110,6 +110,9 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/4.function_in_library_math_2.py)  	|  Fungsi dalam Library Matematika  - Part 2 	|
 
 <br>Modul 5: Mini Quiz
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/mini_quiz_part_2.py)  	|  Harga Rumah di Tangerang 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
