@@ -11,6 +11,7 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
     - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
 1. [Memahami Bahasa SQL dan Sistem Database Relasional](#memahami-bahasa-sql-dan-sistem-database-relasional)
     - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
+    - [Fundamental SQL Using FUNCTION and GROUP BY](#fundamental-sql-using-function-and-group-by)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -195,5 +196,47 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/mini_project.sql)  	|  Proyek dari Cabang A 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+<br>Modul 1: Fungsi di SQL
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.function_ABS.sql)  	|  Fungsi Skalar Matematika - ABS() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.function_CEILING.sql)  	|  Fungsi Skalar Matematika - CEILING() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.function_FLOOR.sql)  	|  Fungsi Skalar Matematika - FLOOR() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.function_ROUND.sql)  	|  Fungsi Skalar Matematika - ROUND() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.function_SQRT.sql)  	|  Fungsi Skalar Matematika - SQRT() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/1.tugas_praktek.sql)  	|  Tugas Praktek 	|
+
+<br>Modul 2: Fungsi Text di SQL
+
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_CONCAT.sql)  	|  Fungsi Text - CONCAT() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_SUBSTRING_INDEX.sql)  	|  Fungsi Text - SUBSTRING_INDEX() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_SUBSTR.sql)  	|  Fungsi Text - SUBSTR() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_LENGTH.sql)  	|  Fungsi Text - LENGTH() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_REPLACE.sql)  	|  Fungsi Text - REPLACE() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.tugas_praktek.sql)  	|  Tugas Praktek 	|
+
+<br>Modul 3: Fungsi Aggregate dan Group By
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.function_SUM.sql)  	|  Fungsi Aggregate - SUM() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.function_COUNT.sql)  	|  Fungsi Aggregate - COUNT() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.function_AVG.sql)  	|  Fungsi Aggregate - AVG() 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.tugas_praktek_1.sql)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.group_by_one_column.sql)  	|  Group by Single Column 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.group_by_more_column.sql)  	|  Group by Multiple Column 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.group_by_&_aggregate.sql)  	|  Fungsi Aggregate dengan Grouping 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/3.tugas_praktek_2.sql)  	|  Tugas Praktek 2 	|
+
+<br>Modul 4: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_1.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_2.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 2 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
