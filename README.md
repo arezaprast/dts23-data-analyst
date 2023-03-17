@@ -12,6 +12,7 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
 1. [Memahami Bahasa SQL dan Sistem Database Relasional](#memahami-bahasa-sql-dan-sistem-database-relasional)
     - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
     - [Fundamental SQL Using FUNCTION and GROUP BY](#fundamental-sql-using-function-and-group-by)
+    - [Fundamental SQL Using INNER JOIN and UNION](#fundamental-sql-using-inner-join-and-union)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -242,5 +243,44 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_1.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 1 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_2.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 2 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+<h3>Fundamental SQL Using INNER JOIN and UNION</h3>
+
+<br>Modul 1: Penggabungan Tabel dari Relasi Kolom
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.tugas_praktek.sql)  	|  Tugas Praktek	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.join_table_with_key_column.sql)  	|  Menggabungkan Tabel dengan Key Columns	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.change_table_name_order.sql)  	|  Bagaimana jika urutan tabel diubah?	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.table_name_prefix.sql)  	|  Menggunakan Prefix Nama Tabel	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/1.combination_without_conditioning.sql)  	|  Penggabungan tanpa Kondisi	|
+
+<br>Modul 2: INNER JOIN
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_1.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (1/3)	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.select_from_two_table.sql)  	|  Tabel tr_penjualan dan tabel ms_produk	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_2.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (2/3)	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_3.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (3/3)	|
+
+<br>Modul 3: UNION
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.gabung_tabel.sql)  	|  Tabel yang akan Digabungkan	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union.sql)  	|  Menggunakan UNION	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_with_where.sql)  	|  Menggunakan UNION dengan Klausa WHERE	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_align_column.sql)  	|  Menggunakan UNION dan Menyamakan Kolom-kolomnya 	|
+
+<br>Modul 4: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_inner_join.sql)  	|  Project INNER JOIN 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_UNION.sql)  	|  Project UNION 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
