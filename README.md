@@ -263,7 +263,7 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_1.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (1/3)	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.select_from_two_table.sql)  	|  Tabel tr_penjualan dan tabel ms_produk	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.select_from_two_table.sql)  	|  Tabel tr_penjualan dan Tabel ms_produk	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_2.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (2/3)	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/2.tugas_praktek_3.sql)  	|  Tugas Praktek: Menggunakan INNER JOIN (3/3)	|
 
@@ -271,10 +271,10 @@ Modul 1: Collection Manipulation dengan Python
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.gabung_tabel.sql)  	|  Tabel yang akan Digabungkan	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.gabung_tabel.sql)  	|  Tabel yang akan digabungkan	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union.sql)  	|  Menggunakan UNION	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_with_where.sql)  	|  Menggunakan UNION dengan Klausa WHERE	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_align_column.sql)  	|  Menggunakan UNION dan Menyamakan Kolom-kolomnya 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_with_where.sql)  	|  Menggunakan UNION dengan klausa WHERE	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/3.union_align_column.sql)  	|  Menggunakan UNION dan menyamakan kolom-kolomnya 	|
 
 <br>Modul 4: Mini Project
 
