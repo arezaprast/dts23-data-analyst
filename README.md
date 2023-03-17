@@ -199,7 +199,7 @@ Modul 1: Collection Manipulation dengan Python
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
 
-<h3>Fundamental SQL Using SELECT Statement</h3>
+<h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
 <br>Modul 1: Fungsi di SQL
 
@@ -214,6 +214,8 @@ Modul 1: Collection Manipulation dengan Python
 
 <br>Modul 2: Fungsi Text di SQL
 
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_CONCAT.sql)  	|  Fungsi Text - CONCAT() 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_SUBSTRING_INDEX.sql)  	|  Fungsi Text - SUBSTRING_INDEX() 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/2.function_SUBSTR.sql)  	|  Fungsi Text - SUBSTR() 	|
