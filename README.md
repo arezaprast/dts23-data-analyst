@@ -9,10 +9,14 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
     - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
     - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
     - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
-1. [Memahami Bahasa SQL dan Sistem Database Relasional](#memahami-bahasa-sql-dan-sistem-database-relasional)
+2. [Memahami Bahasa SQL dan Sistem Database Relasional](#memahami-bahasa-sql-dan-sistem-database-relasional)
     - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
     - [Fundamental SQL Using FUNCTION and GROUP BY](#fundamental-sql-using-function-and-group-by)
     - [Fundamental SQL Using INNER JOIN and UNION](#fundamental-sql-using-inner-join-and-union)
+3. [Memahami Konsep dan Penerapan Exploratory Data Analisis dalam Studi Kasus Bisnis](#memahami-konsep-dan-penerapan-exploratory-data-analisis-dalam-studi-kasus-bisnis)
+    - [Exploratory Data Analysis with Python for Begineer](#exploratory-data-analysis-with-python-for-beginner)
+4. [Memahami Konsep Data Visualisasi dengan Menggunakan Bahasa Pemrograman Python](#memahami-konsep-data-visualisasi-dengan-menggunakan-bahasa-pemrograman-python)
+    - [Fundamental Data Vizualization with Python](#fundamental-data-vizualization-with-python)
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -282,5 +286,50 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_inner_join.sql)  	|  Project INNER JOIN 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_UNION.sql)  	|  Project UNION 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+## Memahami Konsep dan Penerapan Exploratory Data Analisis dalam Studi Kasus Bisnis
+
+<h3>Exploratory Data Analysis with Python for Beginner</h3>
+
+<br>Modul 2: Exploratory Data Analysis dengan Pandas - Part 1
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_3.py)  	|  Tugas Praktek 3 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_4.py)  	|  Tugas Praktek 4 	|
+
+<br>Modul 3: Exploratory Data Analysis dengan Pandas - Part 2
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_1.py)  	|  Tugas Praktek 5 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_2.py)  	|  Tugas Praktek 6 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_3.py)  	|  Tugas Praktek 7 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_4.py)  	|  Tugas Praktek 8 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_5.py)  	|  Tugas Praktek 9 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_6.py)  	|  Tugas Praktek 10 	|
+
+<br>Modul 4: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20%20Data%20Analysis%20with%20Python%20for%20Beginner/mini_project.py)  	|  Tugas dari Andra 	|
+
+<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+
+## Memahami Konsep Data Visualisasi dengan Menggunakan Bahasa Pemrograman Python 
+
+<h3>Fundamental Data Vizualization with Python</h3>
+
+<br>Modul 3: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_1.py)  	|  Visualisasi - Part 1: Matplotlib 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_2.py)  	|  Visualisasi - Part 2: Matplotlib 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
