@@ -297,27 +297,27 @@ Modul 1: Collection Manipulation dengan Python
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_3.py)  	|  Tugas Praktek 3 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_4.py)  	|  Tugas Praktek 4 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_1.py)  	|  Tugas Praktek 1 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_2.py)  	|  Tugas Praktek 2 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_3.py)  	|  Tugas Praktek 3 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/2.tugas_praktek_4.py)  	|  Tugas Praktek 4 	|
 
 <br>Modul 3: Exploratory Data Analysis dengan Pandas - Part 2
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_1.py)  	|  Tugas Praktek 5 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_2.py)  	|  Tugas Praktek 6 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_3.py)  	|  Tugas Praktek 7 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_4.py)  	|  Tugas Praktek 8 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_5.py)  	|  Tugas Praktek 9 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_6.py)  	|  Tugas Praktek 10 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_1.py)  	|  Tugas Praktek 5 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_2.py)  	|  Tugas Praktek 6 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_3.py)  	|  Tugas Praktek 7 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_4.py)  	|  Tugas Praktek 8 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_5.py)  	|  Tugas Praktek 9 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/3.tugas_praktek_6.py)  	|  Tugas Praktek 10 	|
 
 <br>Modul 4: Mini Project
 
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Eksploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/mini_project.py)  	|  Tugas dari Andra 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/mini_project.py)  	|  Tugas dari Andra 	|
 
 <br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
 
