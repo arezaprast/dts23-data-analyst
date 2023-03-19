@@ -19,8 +19,7 @@ for i, item in enumerate(lp.get_lines()):
     ax.annotate(lbl, (11, tabel.loc["Desember", lbl]), (11.2,tabel.loc["Desember", lbl]+add_lbl_pos[i]),fontweight="bold",fontsize=12,color=colors[i],va="center",arrowprops={"arrowstyle": "-", "color": colors[i]})
     ax.annotate("(avg: %.4f)" % tabel[lbl].mean(), (11, tabel.loc["Desember", lbl]),(11.2, tabel.loc["Desember", lbl]+add_avg_pos[i]),fontsize=11, color=colors[i], va="center")
 highest_prod = tabel["Karyawan E"].max()
-ax.annotate("Produktivitas\ntertinggi\n%.4f" % highest_prod, (8, highest_prod), (7.75, highest_prod+1.5),
-ha="left", color=colors[-1], arrowprops={"arrowstyle":"-", "color":colors[-1]})
+ax.annotate("Produktivitas\ntertinggi\n%.4f" % highest_prod, (8, highest_prod), (7.75, highest_prod+1.5), ha="left", color=colors[-1], arrowprops={"arrowstyle":"-", "color":colors[-1]})
 ax.set_xticklabels([item[:3] for item in tabel.index], fontsize=12)
 ax.set_yticklabels([str(i) for i in [10, 20, 30, 40]], fontsize=12)
 ax.set_xlabel("")
