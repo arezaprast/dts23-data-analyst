@@ -18,3 +18,10 @@ plt.yticks(labels, (labels/1000000000).astype(int))
 plt.text(0.45,0.72, 'The GMV increased significantly on October 2019', transform=fig.transFigure, color='red')
 plt.savefig('monthly_gmv.png', quality=95)
 plt.show()
+
+# Ada berbagai parameter yang bisa diatur saat menyimpan gambar, antara lain:
+#   dpi: Resolusi gambar (dots per inch). 
+#   quality: Kualitas gambar (hanya berlaku jika formatnya jpg atau jpeg), bisa diisi nilai 1 (paling buruk) hingga 95 (paling bagus).
+#   facecolor: Memberikan warna bagian depan figure, di luar area plot 
+#   edgecolor: Memberikan warna pinggiran gambar
+#   transparent: Jika nilainya True, maka gambarnya jadi transparan (jika file-nya png)
