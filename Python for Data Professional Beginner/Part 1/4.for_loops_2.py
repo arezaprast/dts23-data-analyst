@@ -1,5 +1,4 @@
 list_tagihan = [50000, 75000, -150000, 125000, 300000, -50000, 200000]
-
 # For loops with break
 print("For loops with break")
 total_tagihan_break = 0
