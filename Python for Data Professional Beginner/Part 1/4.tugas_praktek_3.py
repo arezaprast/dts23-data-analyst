@@ -10,4 +10,4 @@ for dana in list_cash_flow:
         total_pengeluaran += dana
 total_pengeluaran *= 1
 print(total_pengeluaran) 
-print(total_pemasukan)
+print(total_pemasukan) 
