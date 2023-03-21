@@ -3,17 +3,17 @@ select
 from 
   (select 
       orderNumber, status, quantity, priceeach, '1' as quarter
-	 from 
+   from 
       orders_1 
    where 
       status = 'Shipped'
-	 union
-	 select 
+   union
+   select 
       orderNumber, status, quantity, priceeach, '2' as quarter
-	 from 
+   from 
       orders_2 
    where 
       status = 'Shipped'
-	) as tabel_a
+  ) as tabel_a
 group by 
   quarter;
