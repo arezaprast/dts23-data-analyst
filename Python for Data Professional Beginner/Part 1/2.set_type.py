@@ -1,4 +1,4 @@
-contoh_list = ['dewi', 'budi', 'cici', 'linda', 'cici']
+contoh_list = ['dewi', 'budi', 'cici', 'linda', 'cici'] 
 print(contoh_list)
 contoh_set = ('dewi', 'budi', 'cici', 'linda', 'cici')
 print(contoh_set)
