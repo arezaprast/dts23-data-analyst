@@ -1,4 +1,4 @@
-# Statement if
+# Statement if 
 x = 4
 if x % 2 == 0: # jika sisa bagi x dengan 2 sama dengan 0
     print("x habis dibagi dua") # statemen aksi lebih menjorok ke dalam
