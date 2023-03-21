@@ -62,7 +62,7 @@ Modul 2: Python Variables & Data Types
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%201/mini_quiz_part_1.py)  	|  Ekspedisi Pamanku 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 <h3>Python for Data Professional Beginner - Part 2</h3>
 
@@ -124,7 +124,7 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/mini_quiz_part_2.py)  	|  Harga Rumah di Tangerang 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 <h3>Python for Data Professional Beginner - Part 3</h3>
 
@@ -160,7 +160,7 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%203/mini_quiz_part_3.py)  	|  Studi Kasus dari Senja 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 ## Memahami Bahasa SQL dan Sistem Database Relasional
 
@@ -202,7 +202,7 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20SELECT%20Statement/mini_project.sql)  	|  Proyek dari Cabang A 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 <h3>Fundamental SQL Using FUNCTION and GROUP BY</h3>
 
@@ -248,7 +248,7 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_1.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 1 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20FUNCTION%20and%20GROUP%20BY/mini_project_2.sql)  	|  Proyek Pekerjaan Analisis Penjualan - Part 2 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 <h3>Fundamental SQL Using INNER JOIN and UNION</h3>
 
@@ -287,7 +287,7 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_inner_join.sql)  	|  Project INNER JOIN 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_UNION.sql)  	|  Project UNION 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 ## Memahami Konsep dan Penerapan Exploratory Data Analisis dalam Studi Kasus Bisnis
 
@@ -319,7 +319,7 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner/mini_project.py)  	|  Tugas dari Andra 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
 ## Memahami Konsep Data Visualisasi dengan Menggunakan Bahasa Pemrograman Python 
 
@@ -332,4 +332,4 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_1.py)  	|  Visualisasi - Part 1: Matplotlib 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_2.py)  	|  Visualisasi - Part 2: Matplotlib 	|
 
-<br /><br /> **[⬆ back to top](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
