@@ -1,4 +1,4 @@
-# Tagihan
+# Tagihan 
 tagihan = [50000, 75000, 125000, 300000, 200000]
 # Tanpa menggunakan while loop
 total_tagihan = tagihan[0] + tagihan[1] + tagihan[2] + tagihan[3] + tagihan[4]
