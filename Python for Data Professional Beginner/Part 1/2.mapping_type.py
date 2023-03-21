@@ -1,4 +1,4 @@
-person = {'nama'; 'john doe', 'pekerjaan': 'programmer'}
+person = {'nama'; 'john doe', 'pekerjaan': 'programmer'} 
 print(person['nama'])
 print(person['pekerjaan'])
 
