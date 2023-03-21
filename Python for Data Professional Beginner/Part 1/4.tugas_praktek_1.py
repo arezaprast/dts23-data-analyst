@@ -11,4 +11,4 @@ total_harga = sub_warehousing+sub_cleansing+sub_integration+sub_transform
 print("Tagihan kepada:")
 print(tagihan_ke)
 print("Selamat pagi, anda harus membayar tagihan sebesar:") 
-print(total_harga)
+print(total_harga) 
