@@ -4,7 +4,7 @@ jumlah_tagihan = len(tagihan)
 total_tagihan = 0
 while i < jumlah_tagihan:
     # jika terdapat tagihan ke-i yang bernilai minus (di bawah nol),
-    # abaikan tagihan ke-i dan lanjutkan ke tagihan berikutnya
+    # abaikan tagihan ke-i dan lanjutkan ke tagihan berikutnya 
     if tagihan[i] < 0:
         i += 1
         continue
