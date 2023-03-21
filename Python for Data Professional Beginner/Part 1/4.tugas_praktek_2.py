@@ -19,4 +19,4 @@ elif jam > 12:
     print("Selamat siang, anda harus membayar tagihan sebesar:")
 else:
     print("Selamat pagi, anda harus membayar tagihan sebesar:") 
-print(total_harga)
+print(total_harga) 
