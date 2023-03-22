@@ -1,4 +1,4 @@
-# Data properti
+# Data properti 
 tabel_properti = {
 'luas_tanah': [70, 70, 70, 100, 100, 100, 120, 120, 150, 150],
 'luas_bangunan': [50, 60, 60, 50, 70, 70, 100, 80, 100, 90],
