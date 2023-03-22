@@ -1,1 +1,1 @@
-select * from ms_produk t2;
+select * from ms_produk t2; 
