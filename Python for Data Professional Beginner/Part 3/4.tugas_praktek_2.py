@@ -1,4 +1,4 @@
-# Definisikan class Karyawan sebagai parent class
+# Definisikan class Karyawan sebagai parent class 
 class Karyawan:
     def __init__(self, nama, usia, pendapatan, insentif_lembur): 
         self.nama = nama
