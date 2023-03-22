@@ -20,4 +20,4 @@ for judul in judul_artikel:
         if judul.count("Salak") > 0 and judul.count(kata) > 0:
             kata_positif_salak += 1
 print(kata_positif_jeruk) 
-print(kata_positif_salak)
+print(kata_positif_salak) 
