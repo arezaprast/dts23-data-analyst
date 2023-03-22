@@ -1,4 +1,4 @@
-# Definisikan class Karyawan
+# Definisikan class Karyawan 
 class Karyawan:
     nama_perusahaan = 'ABC'
 # Inisiasi object yang dinyatakan dalam variabel aksara dan senja
