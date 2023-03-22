@@ -33,7 +33,6 @@ print(aksara.total_pendapatan())
 senja = IlmuwanData('Senja', 28, 13000000)
 senja.tambahan_proyek(2000000)
 print(senja.total_pendapatan())
-
 # Inheritance adalah salah satu mekanisme di konsep Object-Oriented yang mengizinkan 
 #  untuk mendefinisikan sebuah class baru berdasarkan class yang sebelumnya telah 
 #  dideklarasikan. Melalui konsep inheritance, sebuah class baru dapat memiliki 
