@@ -1,4 +1,4 @@
-# Definisikan class Karyawan (sebagai base class)
+# Definisikan class Karyawan (sebagai base class) 
 class Karyawan: 
     nama_perusahaan = 'ABC' 
     insentif_lembur = 250000
