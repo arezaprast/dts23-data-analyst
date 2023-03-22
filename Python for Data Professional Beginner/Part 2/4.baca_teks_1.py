@@ -6,8 +6,7 @@ print(response)
 # Cetak isi file hello.txt menggunakan method response.iter_lines()
 print("\n>> Cetak isi file hello.txt menggunakan method response.iter_lines():")
 for baris in response.iter_lines():
-	print(baris)
-	
+	print(baris)	
 # Membaca file hello.txt dengan fungsi read()
 ''' print(" Membaca file hello.txt dengan fungsi read()")
     file = open("Hello.txt", "r")
