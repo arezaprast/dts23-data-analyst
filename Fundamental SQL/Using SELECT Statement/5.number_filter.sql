@@ -1,1 +1,1 @@
-select * from ms_produk where harga > 50000;
+select * from ms_produk where harga > 50000; 
