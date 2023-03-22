@@ -11,7 +11,6 @@ class Karyawan:
         self.pendapatan_tambahan += jumlah_tambahan 
     def total_pendapatan(self):
         return self.pendapatan + self.pendapatan_tambahan 
-
 class Perusahaan:
     def __init__(self, nama, alamat, nomor_telepon): 
         self.nama = nama
@@ -28,7 +27,6 @@ class Perusahaan:
                 break
         if karyawan_nonaktif is not None: 
             self.list_karyawan.remove(karyawan_nonaktif)
-
 # Definisikan perusahaan
 perusahaan = Perusahaan('ABC', 'Jl. Jendral Sudirman, Blok 11', '(021) 95205XX')
 # Definisikan nama-nama karyawan
