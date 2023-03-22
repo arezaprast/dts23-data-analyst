@@ -1,10 +1,10 @@
 # Import library math
 import math
 # Fungsi math.log()
-# Menerima input berupa dua buah bilangan (asumsikan x dan y) 
-#  dan mengembalikan sebuah bilangan (z) di mana z merupakan 
+#   Menerima input berupa dua buah bilangan (asumsikan x dan y) 
+#   dan mengembalikan sebuah bilangan (z) di mana z merupakan 
 #   hasil log basis y dari x (atau dengan kata lain x 
-#    merupakan hasil pemangkatan dari z terhadap y)
+#   merupakan hasil pemangkatan dari z terhadap y)
 print(">>> Fungsi math.log()")
 # x = log basis 2 dari 8
 x = math.log(8, 2)
@@ -15,10 +15,9 @@ z = math.log(10000, 10)
 print(x)
 print(y)
 print(z)
-
 # Fungsi math.sqrt()
-# Menerima input berupa sebuah bilangan dan 
-#  mengembalikan hasil akar pangkat dua (akar kuadrat) 
+#   Menerima input berupa sebuah bilangan dan 
+#   mengembalikan hasil akar pangkat dua (akar kuadrat) 
 #   dari bilangan tersebut
 print(">>> Fungsi math.sqrt()")
 # akar kuadrat dari 100
@@ -27,10 +26,9 @@ print(x)
 # akar kuadrat dari 2
 y = math.sqrt(2)
 print(y)
-
 # Fungsi math.copysign()
-# Menerima input berupa sebuah bilangan dan mengembalikan 
-#  hasil akar pangkat dua (akar kuadrat) dari bilangan tersebut
+#   Menerima input berupa sebuah bilangan dan mengembalikan 
+#   hasil akar pangkat dua (akar kuadrat) dari bilangan tersebut
 print(">>> Fungsi math.copysign()")
 x = 10.32
 y = -13.87
