@@ -1,4 +1,4 @@
-# Definisikan fungsi
+# Definisikan fungsi 
 def contoh_fungsi():
     print("Halo Dunia")
     print("Aku sedang belajar bahasa python")
