@@ -1,4 +1,4 @@
-# Definsikan fungsi dengan nilai default argument kedua adalah "".
+# Definsikan fungsi dengan nilai default argument kedua adalah "". 
 def fungsi_dengan_argumen(nama_depan, nama_belakang = ""):
 	print(nama_depan + " " + nama_belakang)
 # Panggil fungsi dengan memasukkan argumen nama_depan "John"
