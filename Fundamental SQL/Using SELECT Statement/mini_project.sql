@@ -7,4 +7,4 @@ from
 where
 	qty*harga >= 100000
 order by
-	total desc;
+	total desc; 
