@@ -1,4 +1,4 @@
-# Definisikan class Karyawan
+# Definisikan class Karyawan 
 class Karyawan:
     nama_perusahaan = 'ABC'
     def __init__(self, nama, usia, pendapatan):
