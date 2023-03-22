@@ -19,7 +19,6 @@ aksara = Karyawan('Aksara', 25, 8500000)
 print(aksara.__class__.nama_perusahaan)
 # Akan menimbulkan error ketika di run
 print(aksara.__nama)
-
 # Enkapsulasi (Encapsulation) adalah sebuah teknik dalam OOP yang mengizinkan
 #  untuk menyembunyikan detil dari sebuah atribut dalam sebuah class.
 
@@ -31,4 +30,3 @@ print(aksara.__nama)
 #    sebelum menuliskan nama dari atribut/fungsi. Dalam sebuah objek, 
 #    atribut/fungsi yang bersifat private access hanya dapat diakses 
 #    di dalam scope sebuah class.
-
