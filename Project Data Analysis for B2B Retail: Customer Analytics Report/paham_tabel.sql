@@ -1,9 +1,12 @@
 select *
-from orders_1
+from 
+  orders_1
 limit 5;
 select *
-from orders_2
+from 
+  orders_2
 limit 5;
 select *
-from customer
+from 
+  customer
 limit 5;
