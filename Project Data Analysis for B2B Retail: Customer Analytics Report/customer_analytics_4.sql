@@ -10,4 +10,8 @@ select
 from 
   orders_1
 where 
-  customerid in (select distinct customerid from orders_2);
+  customerid in 
+  (select distinct 
+    customerid 
+   from 
+    orders_2);
