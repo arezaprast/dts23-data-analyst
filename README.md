@@ -459,3 +459,29 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/customers_analytics.sql)  	|   Customers Transactions per Year	|
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+
+<h3>Project Data Analysis for B2B Retail: Customer Analytics Report</h3>
+
+<br> Modul 2: Pengenalan Tabel
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/paham_tabel.sql)  	|   Memahami Tabel	|
+
+<br> Modul 3: Bagaimana Pertumbuhan Penjualan Hari Ini
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/total_penjualan_dan_revenue.sql)  	|   Total Penjualan dan Revenue pada Quarter-1 (Jan, Feb, Mar) dan Quarter-2 (Apr,Mei,Jun)	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/total_persentasi.sql)  	|   Menghitung Persentasi Keseluruhan Penjualan	|
+
+<br> Modul 4: Customers Analytics
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_1.sql)  	|   Apakah Jumlah Customers xyz.com Semakin Bertambah?	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_2.sql)  	|   Seberapa Banyak Customers tersebut yang Sudah Melakukan Transaksi?	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_3.sql)  	|   Category Produk Apa Saja yang Paling Banyak diorder oleh Customers di Quarter-2?	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_4.sql)  	|   Seberapa Banyak Customers yang Tetap Aktif Bertransaksi Setelah Transaksi Pertamanya?	|
+
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
