@@ -17,6 +17,12 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
     - [Exploratory Data Analysis with Python for Begineer](#exploratory-data-analysis-with-python-for-beginner)
 4. [Memahami Konsep Data Visualisasi dengan Menggunakan Bahasa Pemrograman Python](#memahami-konsep-data-visualisasi-dengan-menggunakan-bahasa-pemrograman-python)
     - [Fundamental Data Vizualization with Python](#fundamental-data-vizualization-with-python)
+5. [Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat](#memahami-konsep-dan-menghasilkan-tipe-visualisasi-data-yang-tepat)
+    - [Data Visualization with Python Matplotlib for Beginner - Part 1](#data-visualization-with-python-matplotlib-for-beginner---part-1)
+    - [Data Visualization with Python Matplotlib for Beginner - Part 2](#data-visualization-with-python-matplotlib-for-beginner---part-2)
+6. [Project Data Analysis for Retail: Sales Performance Report](#project-data-analysis-for-retail:-sales-performance-report)
+7. [Project Data Analysis for B2B Retail: Customer Analytics Report](#project-data-analysis-for-b2b-retail:-customer-analytics-report)
+
 
 ## Memahami Fundamental Bahasa Pemrograman Python
 
@@ -331,5 +337,99 @@ Modul 1: Collection Manipulation dengan Python
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_1.py)  	|  Visualisasi - Part 1: Matplotlib 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20Data%20Vizualization%20with%20Python/mini_project_2.py)  	|  Visualisasi - Part 2: Matplotlib 	|
+
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+
+## Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat
+
+<h3>Data Visualization with Python Matplotlib for Beginner - Part 1</h3>
+
+<br>Modul 1: Pengenalan Matplotlib dan Persiapan Dataset
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/1.awal_dataset.py)  	|  Pengenalan Dataset 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/1.tambah_kolom_order_month.py)  	|  Penambahan Kolom Order Month pada Dataset 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/1.tambah_kolom_GMV.py)  	|  Penambahan Kolom GMV pada Dataset 	|
+
+<br>Modul 2: Plot Pertama dengan Matplotlib
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/2.data_agregat.py)  	|  Membuat Data Agregat 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/2.plot_line_chart_GMV.py)  	|  Plot Pertama: Membuat Line Chart Trend Pertumbuhan GMV 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/2.alternatif_fungsi_plot().py)  	|  Cara Alternatif: Fungsi .plot() pada Pandas Dataframe 	|
+
+<br>Modul 3: Kustomisasi Grafik - Part 1
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.ubah_figure_size.py)  	|  Mengubah Figure Size 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.tambah_title_axis_tabel.py)  	|  Menambahkan Title dan Axis Labels 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_title_axis_tabel.py)  	|  Kustomisasi Title dan Axis Labels 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_line_point.py)  	|  Kustomisasi Line dan Point 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_grid.py)  	|  Kustomisasi Grid 	|
+
+<br>Modul 4: Kustomisasi Grafik - Part 2
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.kustom_axis_ticks.py)  	|  Kustomisasi Axis Ticks 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.batas_max_min_axis_ticks.py)  	|  Menentukan Batas Minimum dan Maksimum Axis Ticks 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.tambah_informasi_plot.py)  	|  Menambahkan Informasi Pada Plot 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.simpan_plot_jadi_img.py)  	|  Menyimpan Hasil Plot Menjadi File Image 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/4.atur_parameter_simpan_img.py)  	|  Pengaturan Parameter untuk Menyimpan Gambar 	|
+
+<br>Modul 5: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/mini_project.py)  	|  Studi Kasus dari Senja: Daily Number of Customers on December 	|
+
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+
+<h3>Data Visualization with Python Matplotlib for Beginner - Part 2</h3>
+
+<br>Modul 2: Membuat Multi-line Chart dan Kustomisasi Lanjutan
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.multi_line_chart.py)  	|   Membuat Multi-line Chart	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.kustom_legend.py)  	|   Kustomisasi Legend	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.kustom_colormap.py)  	|   Kustomisasi Colormap	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.line_chart_top_province.py)  	|   Membuat Line Chart GMV Breakdown by Top Provinces	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/2.buat_anotasi.py)  	|   Membuat Anotasi	|
+
+<br>Modul 3: Membuat Pie-Chart dan Bar-Chart
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.buat_subset_data.py)  	|   Membuat Subset Data	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.pie_chart.py)  	|   Membuat Pie Chart	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.bar_chart.py)  	|   Membuat Bar Chart	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.multibar_chart.py)  	|   Membuat Multi-Bar Chart	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/3.stacked_chart.py)  	|   Membuat Stacked Chart	|
+
+<br>Modul 4: Membuat Histogram dan Scatterplot
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.agregat_data_customer.py)  	|   Membuat Agregat Data Customer	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.histogram_1.py)  	|   Membuat Histogram - Part 1	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.histogram_2.py)  	|   Membuat Histogram - Part 2	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.histogram_3.py)  	|   Membuat Histogram - Part 3	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/4.scatterplot.py)  	|   Membuat Scatterplot	|
+
+<br>Modul 5: Mini Project
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_1.py)  	|   Case 1: Menentukan Brand Top 5	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_2.py)  	|   Case 2: Multi-line Chart Daily Quantity untuk Brand Top 5	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_3.py)  	|   Case 3: Kuantitas Penjualan Brand Top 5 selama Desember 2019	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_4.py)  	|   Case 4: Penjualan Produk diatas 100 dan dibawah 100 selama Desember 2019 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_5.py)  	|   Case 5: Murah atau Mahalkah Harga Produk Brand Top 5	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_6a.py)  	|   Case 6a: Korelasi Quantity vs GMV	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_6b.py)  	|   Case 6b: Korelasi Median Harga vs Quantity	|
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
