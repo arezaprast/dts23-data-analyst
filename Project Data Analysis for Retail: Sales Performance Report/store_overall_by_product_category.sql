@@ -1,5 +1,6 @@
 select 
-  year(order_date) as years, product_sub_category, sum(sales) as sales
+  year(order_date) as years, 
+  product_sub_category, sum(sales) as sales
 from 
   dqlab_sales_store
 where 
