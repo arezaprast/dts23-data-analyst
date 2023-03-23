@@ -20,8 +20,8 @@ Pelatihan Data Analyst menyediakan modul berbahasa Indonesia yang mencerminkan s
 5. [Memahami Konsep dan Menghasilkan Tipe Visualisasi Data yang Tepat](#memahami-konsep-dan-menghasilkan-tipe-visualisasi-data-yang-tepat)
     - [Data Visualization with Python Matplotlib for Beginner - Part 1](#data-visualization-with-python-matplotlib-for-beginner---part-1)
     - [Data Visualization with Python Matplotlib for Beginner - Part 2](#data-visualization-with-python-matplotlib-for-beginner---part-2)
-6. [Project Data Analysis for Retail: Sales Performance Report](#project-data-analysis-for-retail:-sales-performance-report)
-7. [Project Data Analysis for B2B Retail: Customer Analytics Report](#project-data-analysis-for-b2b-retail:-customer-analytics-report)
+6. [Project Data Analysis for Retail: Sales Performance Report](#project-data-analysis-for-retail-sales-performance-report)
+7. [Project Data Analysis for B2B Retail: Customer Analytics Report](#project-data-analysis-for-b2b-retail-customer-analytics-report)
 
 
 ## Memahami Fundamental Bahasa Pemrograman Python
