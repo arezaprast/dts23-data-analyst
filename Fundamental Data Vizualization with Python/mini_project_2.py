@@ -7,10 +7,10 @@ fig.suptitle("Best Employee 2019", x=0.01, y=0.95,
              fontsize=24, fontweight="bold", ha="left")
 ax.set_title("Lima karyawan dengan produktivitas tertinggi\n", fontsize=18, ha="right")
 colors = ["tab:gray", "tab:gray", "tab:gray", "tab:gray", "darkblue"]
-line_widths = [ 1.5, 2, 1, 2.5, 3.]
+line_widths = [1.5, 2, 1, 2.5, 3.]
 lp = tabel.plot(kind="line", ax=ax, xlim=[0, 11], ylim=[10, 40], color=colors,
                 xticks=range(tabel.shape[0]), yticks=[10, 20, 30, 40])
-add_lbl_pos = [ 0.3, 0.5, 1.2, -1.0, 0.5]
+add_lbl_pos = [0.3, 0.5, 1.2, -1.0, 0.5]
 add_avg_pos = [-0.7, -0.5, 0.2, -2.0, -0.5]
 for i, item in enumerate(lp.get_lines()):
     item.set_linewidth(line_widths[i])
