@@ -5,7 +5,6 @@ dataset = pd.read_csv('https://storage.googleapis.com/dqlab-dataset/retail_raw_r
 dataset['order_month'] = dataset['order_date'].apply(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d").strftime('%Y-%m'))
 dataset['gmv'] = dataset['item_price']*dataset['quantity']
 dataset_dki_q4 = dataset[(dataset['province']=='DKI Jakarta') & (dataset['order_month'] >= '2019-10')]
-
 dataset_dki_q4.groupby(['order_month','city'])['gmv'].sum().sort_values(ascending=False).unstack().plot(kind='bar', stacked=True)
 plt.title('GMV Per Month, Breakdown by City\nDKI Jakarta in q4 2019', loc='center', pad=30, fontsize=15, color='blue')
 plt.xlabel('Order Month', fontsize=12)
