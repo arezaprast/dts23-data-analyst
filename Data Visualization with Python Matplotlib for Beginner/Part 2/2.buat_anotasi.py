@@ -6,7 +6,6 @@ dataset['order_month'] = dataset['order_date'].apply(lambda x: datetime.datetime
 dataset['gmv'] = dataset['item_price']*dataset['quantity']
 top_provinces = (dataset.groupby('province')['gmv'].sum().reset_index().sort_values(by='gmv',ascending=False).head(5))
 dataset['province_top'] = dataset['province'].apply(lambda x: x if (x in top_provinces['province'].to_list()) else 'other')
-
 dataset.groupby(['order_month','province_top'])['gmv'].sum().unstack().plot(marker='.', cmap='plasma')
 plt.title('Monthly GMV Year 2019 - Breakdown by Province',loc='center',pad=30, fontsize=20, color='blue')
 plt.xlabel('Order Month', fontsize = 15)
@@ -19,7 +18,6 @@ plt.legend(loc='upper center', bbox_to_anchor=(1.1, 1), shadow=True, ncol=1)
 # Anotasi pertama
 plt.annotate('GMV other meningkat pesat', xy=(5, 900000000), xytext=(4, 1700000000), weight='bold',
              color='red', arrowprops=dict(arrowstyle='fancy',connectionstyle='arc3', color='red'))
-
 # Anotasi kedua
 plt.annotate('DKI Jakarta mendominasi', xy=(3, 3350000000), xytext=(0, 3700000000), weight='bold',
              color='red', arrowprops=dict(arrowstyle='->', connectionstyle='angle', color='red'))
