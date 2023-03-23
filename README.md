@@ -460,6 +460,8 @@ Modul 1: Collection Manipulation dengan Python
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
+## Project Data Analysis for B2B Retail: Customer Analytics Report
+
 <h3>Project Data Analysis for B2B Retail: Customer Analytics Report</h3>
 
 <br> Modul 2: Pengenalan Tabel
