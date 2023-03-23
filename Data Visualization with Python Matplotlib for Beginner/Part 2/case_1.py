@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 dataset = pd.read_csv('https://storage.googleapis.com/dqlab-dataset/retail_raw_reduced.csv')
 dataset['order_month'] = dataset['order_date'].apply(lambda x: datetime.datetime.strptime(x, "%Y-%m-%d").strftime('%Y-%m'))
 dataset['gmv'] = dataset['item_price']*dataset['quantity']
-#mengambil informasi top 5 brands berdasarkan quantity
+#mengambil informasi top 5 brands berdasarkan quantity 
 top_brands = (dataset[dataset['order_month']=='2019-12'].groupby('brand')['quantity']
                 .sum().reset_index().sort_values(by='quantity',ascending=False)
                 .head(5))
