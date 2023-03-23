@@ -1,5 +1,6 @@
 select 
-  year(order_date) as years, count(distinct customer) as number_of_customer
+  year(order_date) as years, 
+  count(distinct customer) as number_of_customer
 from 
   dqlab_sales_store
 where 
