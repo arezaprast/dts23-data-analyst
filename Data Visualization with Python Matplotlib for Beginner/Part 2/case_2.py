@@ -6,8 +6,7 @@ dataset['order_month'] = dataset['order_date'].apply(lambda x: datetime.datetime
 dataset['gmv'] = dataset['item_price']*dataset['quantity']
 top_brands = (dataset[dataset['order_month']=='2019-12'].groupby('brand')['quantity'].sum().reset_index()
               .sort_values(by='quantity',ascending=False).head(5))
-dataset_top5brand_dec = dataset[(dataset['order_month']=='2019-12') &
-                                (dataset['brand'].isin(top_brands['brand'].to_list()))]
+dataset_top5brand_dec = dataset[(dataset['order_month']=='2019-12')&(dataset['brand'].isin(top_brands['brand'].to_list()))]
 dataset_top5brand_dec.groupby(['order_date','brand'])['quantity'].sum().unstack().plot(marker='.', cmap='plasma')
 plt.title('Daily Sold Quantity Dec 2019 - Breakdown by Brands',loc='center',pad=30, fontsize=15, color='blue')
 plt.xlabel('Order Date', fontsize = 12)
