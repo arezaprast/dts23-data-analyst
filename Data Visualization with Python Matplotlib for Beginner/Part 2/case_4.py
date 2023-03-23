@@ -7,7 +7,7 @@ dataset['gmv'] = dataset['item_price']*dataset['quantity']
 top_brands = (dataset[dataset['order_month']=='2019-12'].groupby('brand')['quantity'].sum().reset_index()
                 .sort_values(by='quantity',ascending=False).head(5))
 dataset_top5brand_dec = dataset[(dataset['order_month']=='2019-12') & (dataset['brand'].isin(top_brands['brand'].to_list()))]
-#membuat dataframe baru, untuk agregat jumlah quantity terjual per product
+#membuat dataframe baru, untuk agregat jumlah quantity terjual per product 
 dataset_top5brand_dec_per_product = dataset_top5brand_dec.groupby(['brand','product_id'])['quantity'].sum().reset_index()
 #beri kolom baru untuk menandai product yang terjual >= 100 dan <100
 dataset_top5brand_dec_per_product['quantity_group'] = dataset_top5brand_dec_per_product['quantity'].apply(lambda x: '>= 100' if x>=100 else '< 100')
@@ -17,7 +17,7 @@ s_sort = dataset_top5brand_dec_per_product.groupby('brand')['product_id'].nuniqu
 #plot stacked barchart
 dataset_top5brand_dec_per_product.groupby(['brand','quantity_group'])['product_id'].nunique()
 .reindex(index=s_sort.index, level='brand').unstack().plot(kind='bar', stacked=True)
-plt.title('Number of Sold Products per Brand, December 2019',loc='center',pad=30, fontsize=15, color='blue')
+plt.title('Number of Sold Products per Brand, December 2019',loc='center',pad=30,fontsize=15,color='blue')
 plt.xlabel('brand', fontsize = 15)
 plt.ylabel('Number of Products',fontsize = 15)
 plt.ylim(ymin=0)
