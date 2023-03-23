@@ -31,5 +31,5 @@ plt.show()
 #   shadow: jika diisi True, maka kotak legend akan memiliki bayangan.
 #   ncol: jumlah kolom dari isi legend, default-nya adalah 1
 #   fontsize: ukuran huruf pada legend
-# title: memberikan judul pada legend
-# title_fontsize: ukuran huruf pada judul legend
+#   title: memberikan judul pada legend
+#   title_fontsize: ukuran huruf pada judul legend
