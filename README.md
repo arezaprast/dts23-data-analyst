@@ -433,3 +433,29 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%202/case_6b.py)  	|   Case 6b: Korelasi Median Harga vs Quantity	|
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+
+## Project Data Analysis for Retail: Sales Performance Report
+
+<h3>Project Data Analysis for Retail: Sales Performance Report</h3>
+
+<br> Modul 2: Store Overall Performance
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_overall_by_year.sql)  	|   Overall Performance By Year	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_overall_by_product_category.sql)  	|   Overall Performance By Product Category	|
+
+<br> Modul 3: Store Promotion Effectiveness and Efficiency 
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_promotion_by_year.sql)  	|   Promotion Effectiveness and Efficiency By Year	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_promotion_by_product_category.sql)  	|   Promotion Effectiveness and Efficiency By Product Category	|
+
+<br> Modul 4: Customers Analytics
+
+| Code 	|               Title              	|
+|:----:	|:--------------------------------:	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/customers_analytics.sql)  	|   Customers Transactions per Year	|
+
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
