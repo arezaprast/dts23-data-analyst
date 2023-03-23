@@ -4,12 +4,12 @@ order_df = pd.read_csv("https://storage.googleapis.com/dqlab-dataset/order.csv")
 # Median price yang dibayar customer dari masing-masing metode pembayaran. 
 median_price = order_df["price"].groupby(order_df["payment_type"]).median()
 print(median_price)
-# Ubah freight_value menjadi shipping_cost dan cari shipping_cost 
+# Ubah freight_value menjadi shipping_cost dan cari shipping_cost
 # termahal dari data penjualan tersebut menggunakan sort.
 order_df.rename(columns={"freight_value": "shipping_cost"}, inplace=True)
 sort_value = order_df.sort_values(by="shipping_cost", ascending=0)
 print(sort_value)
-# Untuk product_category_name, berapa  rata-rata weight produk tersebut 
+# Untuk product_category_name, berapa  rata-rata weight produk tersebut  
 # dan standar deviasi mana yang terkecil dari weight tersebut, 
 mean_value = order_df["product_weight_gram"].groupby(order_df["product_category_name"]).mean()
 print(mean_value.sort_values())
