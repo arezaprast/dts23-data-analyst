@@ -365,8 +365,8 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.ubah_figure_size.py)  	|  Mengubah Figure Size 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.tambah_title_axis_tabel.py)  	|  Menambahkan Title dan Axis Labels 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_title_axis_tabel.py)  	|  Kustomisasi Title dan Axis Labels 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.tambah_title_axis_label.py)  	|  Menambahkan Title dan Axis Labels 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_title_axis_label.py)  	|  Kustomisasi Title dan Axis Labels 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_line_point.py)  	|  Kustomisasi Line dan Point 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner/Part%201/3.kustom_grid.py)  	|  Kustomisasi Grid 	|
 
@@ -487,3 +487,4 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_4.sql)  	|   Seberapa Banyak Customers yang Tetap Aktif Bertransaksi Setelah Transaksi Pertamanya?	|
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+
