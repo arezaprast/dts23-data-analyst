@@ -475,7 +475,7 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/total_penjualan_dan_revenue.sql)  	|   Total Penjualan dan Revenue pada Quarter-1 (Jan, Feb, Mar) dan Quarter-2 (Apr,Mei,Jun)	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/total_persentasi.sql)  	|   Menghitung Persentasi Keseluruhan Penjualan	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/hitung_persentasi.sql)  	|   Menghitung Persentasi Keseluruhan Penjualan	|
 
 <br> Modul 4: Customers Analytics
 
