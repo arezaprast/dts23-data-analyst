@@ -450,7 +450,7 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_promotion_by_year.sql)  	|   Promotion Effectiveness and Efficiency By Year	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_promotion_by_product_category.sql)  	|   Promotion Effectiveness and Efficiency By Product Category	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_promotion_by_product_category.sql)  	|   Promotion Effectiveness and Efficiency By Product Sub Category	|
 
 <br> Modul 4: Customers Analytics
 
@@ -486,5 +486,5 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_3.sql)  	|   Category Produk Apa Saja yang Paling Banyak diorder oleh Customers di Quarter-2?	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20B2B%20Retail:%20Customer%20Analytics%20Report/customer_analytics_4.sql)  	|   Seberapa Banyak Customers yang Tetap Aktif Bertransaksi Setelah Transaksi Pertamanya?	|
 
-<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
+<br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br /> 
 
