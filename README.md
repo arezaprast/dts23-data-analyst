@@ -443,7 +443,7 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_overall_by_year.sql)  	|   Overall Performance By Year	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_overall_by_product_category.sql)  	|   Overall Performance By Product Category	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Project%20Data%20Analysis%20for%20Retail:%20Sales%20Performance%20Report/store_overall_by_product_category.sql)  	|   Overall Performance By Product Sub Category	|
 
 <br> Modul 3: Store Promotion Effectiveness and Efficiency 
 
