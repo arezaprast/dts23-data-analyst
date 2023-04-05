@@ -10,4 +10,4 @@ select
 from 
   ms_produk_2
 where 
-  harga < 50000;
+  harga < 50000; 
