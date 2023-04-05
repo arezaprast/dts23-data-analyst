@@ -1,3 +1,3 @@
 select * from tabel_A
 union
-select * from tabel_B;
+select * from tabel_B; 
