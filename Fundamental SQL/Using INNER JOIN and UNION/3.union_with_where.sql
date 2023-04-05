@@ -1,5 +1,7 @@
-select * from tabel_A
+select * 
+from tabel_A
 where kode_pelanggan = 'dqlabcust03'
 union
-select * from tabel_B
+select * 
+from tabel_B
 where kode_pelanggan = 'dqlabcust03';
