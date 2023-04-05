@@ -291,7 +291,7 @@ Modul 1: Collection Manipulation dengan Python
 | Code 	|               Title              	|
 |:----:	|:--------------------------------:	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_inner_join.sql)  	|  Project INNER JOIN 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_UNION.sql)  	|  Project UNION 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Fundamental%20SQL/Using%20INNER%20JOIN%20and%20UNION/project_union.sql)  	|  Project UNION 	|
 
 <br /><br /> **[⬆ Kembali ke Atas](#table-of-contents)** <br /><br />
 
