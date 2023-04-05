@@ -7,4 +7,6 @@ inner join
 on 
   ms_pelanggan.kode_pelanggan = tr_penjualan.kode_pelanggan
 where 
-  tr_penjualan.nama_produk = 'Kotak Pensil DQlab' or tr_penjualan.nama_produk = 'Flashdisk DQlab 32 GB' or tr_penjualan.nama_produk = 'Sticky Notes DQlab 500 sheets';
+  tr_penjualan.nama_produk = 'Kotak Pensil DQlab' 
+  or tr_penjualan.nama_produk = 'Flashdisk DQlab 32 GB' 
+  or tr_penjualan.nama_produk = 'Sticky Notes DQlab 500 sheets';
