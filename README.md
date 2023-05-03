@@ -84,7 +84,7 @@ Modul 1: Collection Manipulation dengan Python
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.tuple_manipulaton.py)  	|  Tuple Manipulation 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.set_manipulaton_1.py)  	|  Set Manipulation - Part 1 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.set_manipulaton_2.py)  	|  Set Manipulation - Part 2 	|
-|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.dictionary_manipulaton.py)  	|  Dictionary Manipulation 	|
+|   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.dictionary_manipulation.py)  	|  Dictionary Manipulation 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.useful_tips_trik.py)  	|  Useful Tips and Tricks 	|
 |   [📜](https://github.com/arezaprast/dts23-data-analyst/blob/main/Python%20for%20Data%20Professional%20Beginner/Part%202/1.tugas_praktek.py)  	|  Tugas Praktek 	|
 
